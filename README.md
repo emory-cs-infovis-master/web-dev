@@ -610,6 +610,7 @@ Here is a summary of *Bootstrap*:
 
 ##### Sources
 
+* [Tamara Munzner's web development tutorial](https://github.com/UBC-InfoVis/2021-436V-tutorials/tree/master/0_Web_Tutorial)
 * [Harvard's visualization course (CS171)](https://www.cs171.org/)
 * [dataviscourse.net (University of Utah)](http://dataviscourse.net/tutorials/lectures/lecture-git/)
 * [javascripttutorial.net](https://www.javascripttutorial.net/)
