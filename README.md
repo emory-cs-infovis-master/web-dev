@@ -1,7 +1,7 @@
 # 0. Web Development
 
 The reward of learning D3 is exponentially greater compared to higher-level visualization libraries that provide preconfigured templates for common chart types.
-However, the creation of expressive visualizations in D3 requires a certain level of programming experience and web development knowledge (HTML, CSS, JavaScript, etc) that is covered in [CPSC 310](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=310) and inherited prerequisites. It is imperative that you are comfortable using all the technologies that we superficially walk through in this article. The learning curve of D3 is challenging for the short time span of a single academic term and we do not recommend taking this course if you had no previous exposure to web development.
+However, the creation of expressive visualizations in D3 requires a certain level of programming experience and web development knowledge (HTML, CSS, JavaScript, etc). It is imperative that you are comfortable using all the technologies that we superficially walk through in this article. The learning curve of D3 is challenging for the short time span of a single academic term and we do not recommend taking this course if you had no previous exposure to web development.
 
 This tutorial will serve to refresh you in case you're rusty, for the prerequisite material. 
 
@@ -153,8 +153,6 @@ As you can see in the example below, IDs are preceded with a hash mark (*#articl
 
 *From now on, and in all upcoming tutorials and assignments we will use the common abbreviation JS for the term JavaScript.*
 
-In this course, we will use **ES6** (6th version of the JS standard ECMAScript) which is a significant update to previous JS versions. It includes dozens of new features to make your code more modern and more readable. One of these features is the (optional) ability to write object-oriented code.
-
 We highly recommend that you follow a JS style guide (e.g., [Airbnb](https://google.github.io/styleguide/jsguide.html) or [Google](https://google.github.io/styleguide/jsguide.html)) to ensure consistency and to improve the overall code quality, especially in team projects.
 
 ### A short reiteration of the basic concepts of JS 
@@ -225,30 +223,30 @@ You can do much more with arrays than shown here. Again, check out the [MDN docu
 ```javascript
 // JS object with four properties
 let course = {
-	id: "CPSC436",
+	id: "CS584",
 	name: "Information Visualization",
 	students: 100,
 	active: true
 }
 
 // Accessing an object via dot notation, specifying the name of the property
-course.id; 		// Returns: CPSC436
+course.id; 		// Returns: CS584
 course.students;	// Returns: 100
 
 // We can include arrays in objects
 let course = {
-	id: "CPSC436",
+	id: "CS584",
 	students: ["Michael", "Ann", "James", "Kathy"]
 };
 
 // And we can also create arrays of objects
 let courses = [
-	{ id: "CPSC436", name: "Visualization" },
-	{ id: "CPSC110", name: "Computation, Programs, and Programming" }
+	{ id: "CS584", name: "Visualization" },
+	{ id: "CS253", name: "Data Structures" }
 ];
 
 // To access this data we just follow the trail of properties
-courses[1].id; 	// Returns: CPSC110
+courses[1].id; 	// Returns: CS253
 ```
 
 Keep in mind: [...] means array and {...} means object!
@@ -260,7 +258,7 @@ Keep in mind: [...] means array and {...} means object!
 
 ```json
 {
-	"id": "CPSC436",
+	"id": "CS584",
 	"name": "Information Visualization",
 	"students": 100,
 	"active": true
@@ -460,7 +458,7 @@ cities 	// Returns: ["London", "Munich", "Paris", "Toronto", "Vienna"]
 
 const products = [
 	{ name: "laptop", price: 800 },
-	{ name: "phone", price:200},
+	{ name: "phone", price: 200},
 	{ name: "tv", price: 1200}
 ];
 
@@ -489,7 +487,7 @@ roots	// Returns: [1, 2, 3]
 
 const products = [
 	{ name: "laptop", price: 800 },
-	{ name: "phone", price:200},
+	{ name: "phone", price: 200},
 	{ name: "tv", price: 1200}
 ];
 
@@ -551,9 +549,9 @@ If you haven't done already, it's now time to open the developer tools in your b
 ## 5. <a name="git">Use Git & Github</a>
 
 We will use **git** repositories (via Github) for all programming assignments and project milestones.  You should already be well acquainted with the process and all necessary git commands from previous courses (see [Reid Holmes'
-CPSC 310 git tutorial](https://github.com/ubccpsc/310/blob/2019jan/resources/git.md) as a refresher).
+CPSC 310 git tutorial, UBC](https://github.com/ubccpsc/310/blob/2019jan/resources/git.md) as a refresher).
 
-We automatically generate git repositories in your github student account ([https://github.students.cs.ubc.ca](https://github.students.cs.ubc.ca)) that typically contain templates, code snippets, and data to help you get started. Submit a programming assignment or project milestone by updating the given repository (`git push`). You can commit/push
+Submit a programming assignment or project milestone by updating the given repository (`git push`). You can commit/push
 changes as often as you want before the deadline.
 
 #### Technical hints: How to set up Git SSH authentication?
