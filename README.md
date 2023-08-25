@@ -366,7 +366,7 @@ You should submit your source files on GitHub classroom and they should consist 
 
 The grading of your assignment will be based on successful execution of the following requirements:
 
-1. On load it should display the title and author of one poem, and have two poems which read "Display Next Poem" and "Display Next Line" [15%]
+1. On load it should display the title and author of one poem, and have two buttons which read "Display Next Poem" and "Display Next Line" [15%]
 2. When the "Display Next Poem" button is clicked the title and author of the next poem in an array should be displayed and any poem content should be removed. [15%]
 3. When the end of the array is reached clicking the "Display Next Poem" should display the first poem author and title again. [15%]
 4. Clicking the "Display Next Line" button should display the next line of the poem. [15%]
