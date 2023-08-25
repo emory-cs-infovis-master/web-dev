@@ -101,7 +101,7 @@ Make sure to get familiar with this structure:
 
 ### HTML Elements
 
-HTML features several built-in elements with default styling and features (which can be overwritten) that can be used to alter the display of a webpage using raw html. Here is one approach to displaying a poem using the `<p>` element and `</br>` to induce line breaks.
+HTML features several built-in elements with default styling and features (which can be overwritten) that can be used to alter the display of a webpage using raw html. Here is one approach to displaying a poem. It is enclosed in a `<div></div>`, has headers of two different sizes to display the title `<h1>` and the author `<h2>`, then uses the paragraph `<p>` element and `</br>` to induce line breaks. Try adding it within the `<body></body>` (after `<body>` and before `</body>`).
 
 ```html
 <div>
@@ -118,7 +118,7 @@ HTML features several built-in elements with default styling and features (which
 
 *Result:*
 
-![HTML Example Result](images/html-example.png?raw=true "HTML Example Result")
+![Alternative HTML Example Result](images/html-example-1.png?raw=true "Alternative HTML Example Result")
 
 An alternative approach could be to use an unordered list (`<ul>`) and utilise a list item (`<li>`) for each line of the poem:
 
@@ -137,7 +137,7 @@ An alternative approach could be to use an unordered list (`<ul>`) and utilise a
 
 *Result:*
 
-![Alternative HTML Example Result](images/html-example-1.png?raw=true "Alternative HTML Example Result")
+![HTML Example Result](images/html-example.png?raw=true "HTML Example Result")
 
 ### Classes and IDs
 
