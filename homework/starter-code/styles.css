@@ -1,0 +1,33 @@
+body {
+  /* TODO make the background of the page black and the font colour white */
+}
+
+.poem-wrapper {
+  /* TODO centre the text in the poem-wrapper div and choose a new font */
+}
+
+.poem {
+  display: inline-block;
+
+  /* TODO add a white border to the poem and some padding so the content isn't right up against the edge  */
+}
+
+/* TODO add css to style the poem title and author name, you should, as a minimum, change the font size and consider adding further font styles */
+
+/* TODO style the poem content as you wish */
+
+/* TODO add css so that any unordered lists inside a div with class poem do not have bullet points */
+
+.controls {
+  /* OPTIONAL add further styling to the controls */
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+button {
+  /* TODO make the corners of the button rounded */
+  font-size: 1.1em;
+}
+
+/* TODO add css styling so that one (and only one!) of your poems is displayed differently to the others */
