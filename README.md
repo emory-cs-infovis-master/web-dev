@@ -360,11 +360,11 @@ document.getElementById("display-next-poem-button").addEventListener("click", fu
 
 ## 4. <a name="assignment">Homework Assignment</a> 
 
-For the homework assignment you are required to take the starter code provided at [HW 1](homework/starter-code) and complete the *TODO* statements littered throughout the HTML, CSS and Javascript files.
+Where to go from here? Now that you've gotten comfortable with HTML, CSS, and JS, it's time to put it to the test. For the homework assignment you are required to take the starter code provided at [HW 1](homework/starter-code) and complete the *TODO* statements littered throughout the HTML, CSS and Javascript files. 
 
 You should submit your source files on GitHub classroom and they should consist of ```index.html```, ```styles.css``` and ```main.js``` files.
 
-Your final webpage should satisfy the following requirements:
+The grading of your assignment will be based on successful execution of the following requirements:
 
 1. On load it should display the title and author of one poem, and have two poems which read "Display Next Poem" and "Display Next Line" [15%]
 2. When the "Display Next Poem" button is clicked the title and author of the next poem in an array should be displayed and any poem content should be removed. [15%]
@@ -374,6 +374,9 @@ Your final webpage should satisfy the following requirements:
 6. The poem title and poem author should be styled differently from one another, as should the poem content. (The TODO's will specify some constraints (such as the body background being black, but otherwise use your creativity and try to illustrate a wide variety of different css attributes). [25%]
 7. One poem (and only one!) should have different styling than the other poems displayed. [10%]
 8. You may log things to the console but your web-page should throw no errors when it is completed.
+
+Note that you are *not required to submit completed tutorial code*, only the completed homework code. 
+However, if you successfully complete the tutorial, it will help you with some of the requirements above. 
 
 Here is an example of what your finished web page could look like on initial load:
 
