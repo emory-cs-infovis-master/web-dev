@@ -23,7 +23,7 @@ If you are already comfortable with web development then please feel free to con
 
 I (Thomas, the TA), personally would recommend using [Visual Studio Code](https://code.visualstudio.com) for the majority if not all of the development during this course. I will be using it for all the demos and live-coding that happens in class. It is a completely free, open-source IDE (Integrated Development Environment) which you can run on any platofrm. One of the major benefits in using this IDE is the extensions that can enhance your coding experience to make it smoother. I will touch on these more later.
 
-That being said, you are welcome to use any code editor that you are comfortable with. Some developers prefer basic editors, such as [Sublime Text](https://www.sublimetext.com/) or [Atom](https://atom.io/), while others prefer full IDEs, such as [Webstorm](https://www.jetbrains.com/community/education/#students) (free student license available). Especially for the team project you should take an IDE into consideration.
+That being said, you are welcome to use any code editor that you are comfortable with. Some developers prefer basic editors, such as [Sublime Text](https://www.sublimetext.com/) or [Atom](https://atom.io/), while others prefer full IDEs, such as [Webstorm](https://www.jetbrains.com/community/education/#students) (free student license available). 
 
 You may also want to try online interactive notebooks (such as [Observable](http://observablehq.com/)) that become increasingly popular to experiment with smaller D3 examples. However, they are not suitable for assignments because you need to use our given templates and submit the source code through git.
 
@@ -48,7 +48,7 @@ Alternatively, you can use an **IDE**, such as [Webstorm](https://www.jetbrains.
 
 ### Web developer tools
 
-Every modern-day web browser has built-in developer tools that expose the current state of the DOM and help us to better understand what is going on. We strongly encourage you to use Google Chrome or Mozilla Firefox. We will use the newest stable release of Chrome for grading and for all example debugging in class.
+Every modern-day web browser has built-in developer tools that expose the current state of the DOM (Document Object Model -- the structured representation of your webpage) and help us to better understand what is going on. We strongly encourage you to use Google Chrome or Mozilla Firefox. We will use the newest stable release of Chrome for grading and for all example debugging in class.
 
 The official browser websites provide detailed descriptions and tutorials: see [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools) and [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools). Make sure to check out the keyboard shortcut of your system to open the developer tools (e.g., `command + option + j` for Chrome DevTools on Mac).
 
