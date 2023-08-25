@@ -278,7 +278,7 @@ As you can see in the example below, IDs are preceded with a hash mark (*#poem-1
 
 *From now on, and in all upcoming tutorials and assignments we will use the common abbreviation JS for the term JavaScript.*
 
-We highly recommend that you follow a JS style guide (e.g., [Airbnb](https://google.github.io/styleguide/jsguide.html) or [Google](https://google.github.io/styleguide/jsguide.html)) to ensure consistency and to improve the overall code quality, especially in team projects.
+We highly recommend that you follow a JS style guide (e.g., [Google](https://google.github.io/styleguide/jsguide.html)) to ensure consistency and to improve the overall code quality, especially in team projects.
 
 ### A short reiteration of the basic concepts of JS 
 
@@ -374,7 +374,7 @@ let poems = [
 poems[1].id; 	// Returns: CS253
 ```
 
-Keep in mind: [...] means array and {...} means object!
+Keep in mind: square bracket [...] means array and curly brace {...} means object!
 
 ##### JSON (JavaScript Object Notation)
 
@@ -464,7 +464,7 @@ console.log("Write something to the web console");
 
 Variables within a function have *private* scope, however, when they are declared outside a function they are *global*.
 
-### Javascript for the tutorisl
+### Javascript for the tutorial
 
 In the tutorial you will be shown how to create a web-page that displays a poem and a button to display the next poem in an array. The poems are all JS objects that look like this:
 
