@@ -3,7 +3,8 @@
 The reward of learning D3 is exponentially greater compared to higher-level visualization libraries that provide preconfigured templates for common chart types.
 However, the creation of expressive visualizations in D3 requires a certain level of programming experience and web development knowledge (HTML, CSS, JavaScript, etc). It is imperative that you are comfortable using all the technologies that we superficially walk through in this article. The learning curve of D3 is challenging for the short time span of a single academic term, so it's important that you either (a) have some prior exposure to web technologies or (b) are up for the challenge of getting up to speed. 
 
-This tutorial will serve to refresh you in case you're rusty, for the prerequisite material. 
+This tutorial will serve to refresh you in case you're rusty. 
+Note that for those who are earlier on in their web development journey, there is an additional [RESOURCES_README.md](RESOURCES_README.md) that you may find helpful. 
 
 #### Tutorial Outline
 
