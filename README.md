@@ -172,7 +172,7 @@ A stylesheet will usually consist of a list of CSS rules that are inserted eithe
 
 CSS styles consist of selectors and properties, grouped in curly brackets. A property and its value are separated by a colon, and the line is terminated with a semicolon.
 
-A simple rule in CSS can look like the following:
+A simple rule in CSS applied to `<div>` elements can look like the following, which adjusts font size, padding (white space), background color, text color, and border:
 
 ```css
 div {
@@ -186,7 +186,7 @@ div {
 
 *Result:* 
 
-![CSS Example Result](images/new-css-example-1.png?raw=true "CSS Example Result")
+![CSS Example 2 Result](images/new-css-example.png?raw=true "CSS Example 2 Result")
 
 If you are searching for an exhaustive list of style properties we recommend [Mozilla's Developer Platform](https://developer.mozilla.org/en-US/docs/Web/CSS) or [w3schools.com](http://www.w3schools.com/CSS/). Some CSS properties are needed quite often, so you should try to memorize them.
 
@@ -272,7 +272,7 @@ As you can see in the example below, IDs are preceded with a hash mark (*#poem-1
 
 *Result:*
 
-![CSS Example 2 Result](images/new-css-example.png?raw=true "CSS Example 2 Result")
+![CSS Example Result](images/new-css-example-1.png?raw=true "CSS Example Result")
 
 ## 3. <a name="js">JavaScript (JS)</a>
 
