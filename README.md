@@ -781,7 +781,7 @@ Please check whether you have a SSH key generated already: there should be `id_r
 
 ## 5. <a name="assignment">Homework Assignment</a> 
 
-For the homework assignment you are required to take the starter code provided at [HW 1](https://tobedecided) and complete the *TODO* statements littered throughout the HTML, CSS and Javascript files.
+For the homework assignment you are required to take the starter code provided at [HW 1](homework/starter-code) and complete the *TODO* statements littered throughout the HTML, CSS and Javascript files.
 
 You should submit your source files on GitHub classroom and they should consist of ```index.html```, ```styles.css``` and ```main.js``` files.
 
