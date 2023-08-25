@@ -368,12 +368,13 @@ The grading of your assignment will be based on successful execution of the foll
 
 1. On load it should display the title and author of one poem, and have two buttons which read "Display Next Poem" and "Display Next Line" [15%]
 2. When the "Display Next Poem" button is clicked the title and author of the next poem in an array should be displayed and any poem content should be removed. [15%]
-3. When the end of the array is reached clicking the "Display Next Poem" should display the first poem author and title again. [15%]
-4. Clicking the "Display Next Line" button should display the next line of the poem. [15%]
+3. When the end of the array is reached clicking the "Display Next Poem" should display the first poem author and title again. [10%]
+4. Clicking the "Display Next Line" button should display the next line of the poem. [20%]
 5. There should be clear separation between verses. [5%]
-6. The poem title and poem author should be styled differently from one another, as should the poem content. (The TODO's will specify some constraints (such as the body background being black, but otherwise use your creativity and try to illustrate a wide variety of different css attributes). [25%]
-7. One poem (and only one!) should have different styling than the other poems displayed. [10%]
+6. The poem title and poem author should be styled differently from one another, as should the poem content. (The TODO's will specify some constraints (such as the body background being black, but otherwise use your creativity and try to illustrate a wide variety of different css attributes). [20%]
+7. One poem (and only one!) should have different styling than the other poems displayed. [5%]
 8. You may log things to the console but your web-page should throw no errors when it is completed.
+9. The final 10% will be awarded based on overall cohesion and the presence of any unexpected behaviour. [10%]
 
 Note that you are *not required to submit completed tutorial code*, only the completed homework code. 
 However, if you successfully complete the tutorial, it will help you with some of the requirements above. 
