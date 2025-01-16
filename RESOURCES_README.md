@@ -18,7 +18,7 @@ Depending on your level of familiarity with web development, you may find these 
 
 If you are already comfortable with web development then please feel free to continue using whatever setup you are most comfortable with. This section will detail potential options you can use and will go into detail on the setup that the TA will be using in class.
 
-I (Thomas, the TA), personally would recommend using [Visual Studio Code](https://code.visualstudio.com) for the majority if not all of the development during this course. I will be using it for all the demos and live-coding that happens in class. It is a completely free, open-source IDE (Integrated Development Environment) which you can run on any platofrm. One of the major benefits in using this IDE is the extensions that can enhance your coding experience to make it smoother. I will touch on these more later.
+I (Thomas, the TA), personally would recommend using [Visual Studio Code](https://code.visualstudio.com) for the majority if not all of the development during this course. I will be using it for all the demos and live-coding that happens in class. It is a completely free, open-source IDE (Integrated Development Environment) which you can run on any platform. One of the major benefits in using this IDE is the extensions that can enhance your coding experience to make it smoother. I will touch on these more later.
 
 That being said, you are welcome to use any code editor that you are comfortable with. Some developers prefer basic editors, such as [Sublime Text](https://www.sublimetext.com/) or [Atom](https://atom.io/), while others prefer full IDEs, such as [Webstorm](https://www.jetbrains.com/community/education/#students) (free student license available). 
 
